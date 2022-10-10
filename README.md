@@ -1,0 +1,1 @@
+Sorteador de sequência de números
